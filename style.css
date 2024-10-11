@@ -1,0 +1,33 @@
+
+/* use # for ids, . for classes */
+
+* {
+background-color: rgb(245, 219, 188);
+font-family:Arial;
+outline: 2px  solid red;
+
+}
+
+h1 {
+color: blueviolet;
+text-align: center;
+padding-bottom: 20px;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.ingred {
+    outline: 1px solid black;
+    margin-top: 1px;
+}
+
+.title {
+    background-color: darkgray;
+    font-weight: bold;
+
+}
